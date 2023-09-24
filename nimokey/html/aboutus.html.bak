@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>About Us</title>
+ </head>
+ <body>
+    <center><img src="../image/logo.png" width="100" height="100" border="0" alt=""></center>
+  <hr>
+  <center>
+	<table>
+<tr>
+	<td><a href="home.html"><strong>Home&nbsp;&nbsp;&nbsp;</strong></a></td>
+	<td><a href="aboutus.html"><strong>About Us&nbsp;&nbsp;&nbsp;</strong></a></td>
+	<td><a href="contactus.html"><strong>Contact Us&nbsp;&nbsp;&nbsp;</strong></a></td>
+	<td><a href="login.html"><strong>Login&nbsp;&nbsp;&nbsp;</strong></a></td>
+	<td><a href="register.html"><strong>Register&nbsp;&nbsp;&nbsp;</strong></a></td>
+</tr>
+</table>
+  </center>
+<hr>
+
+	<span class=""><img src="../image/aboutus.jpg" width="300" height="300" border="0" alt="">
+
+</span>
+<span class="" style="border: 4px solid green"><p>Mnemonic keys, also known as mnemonics for keys, <!-- are memory aids used to remember complex sequences of characters, such as passwords or encryption keys, by creating easily recallable associations. These can include forming sentences, acronyms, or patterns based on words, phrases, or personal experiences that correspond to the characters in the key. By employing mnemonic techniques like word-based associations, acronyms, personal connections, patterns, visual imagery, chunking, or song-like structures, individuals can enhance their ability to remember and input passwords or encryption keys securely, while also prioritizing robust security measures to protect sensitive information. --></p>
+</span>
+
+
+
+ </body>
+</html>
